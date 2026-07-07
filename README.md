@@ -2,7 +2,7 @@
 
 This repository is for the talk "[Intelligence Augmentation via Ecopsychophysics in XR](https://youtu.be/vFJcmOWhZ-o)".
 
-Presented at the Sandia XR Conference, July 21, 2026. Sandia National Labs.
+Presented at the [8th Sandia XR Conference](https://www.sandia.gov/xr/), July 21, 2026. Sandia National Labs.
 
 The code in this repository contains simulations for 
 
